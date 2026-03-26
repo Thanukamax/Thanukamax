@@ -4,7 +4,7 @@ CS undergrad at the **University of Westminster** (via IIT Sri Lanka, 2024-2028)
 Currently building at [**BitByBit**](https://bbyb.dev) — an AI-native OS startup and Meta/Shopify Partner.
 
 I work across **game engines, systems programming, reverse engineering, and creative tooling**.
-When I'm not writing code, I'm probably tearing apart binaries or rigging 3D models.
+When I'm not writing code, I'm probably tearing apart binaries, designing levels or gaming.
 
 ---
 
