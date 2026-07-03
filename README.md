@@ -2,7 +2,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Thanukamax.Thanukamax&left_color=black" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Animated Poster" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" alt="Neon game-dev banner" />
 </div>
 <h1 align="center">Hi 👋, I'm Thanuka Sehasna Perera</h1>
 <h3 align="center">CS undergrad @ University of Westminster building at the intersection of engineering and art — game engines, GPU architecture, systems programming and creative tooling. When I'm not writing code, I'm probably tearing apart binaries or designing levels.</h3>
