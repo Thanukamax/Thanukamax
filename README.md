@@ -54,6 +54,10 @@
   <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go" height="35" alt="go logo" /></a>
   <img width="10" />
   <a href="https://www.lua.org/"><img src="https://skillicons.dev/icons?i=lua" height="35" alt="lua logo" /></a>
+  <img width="10" />
+  <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo" /></a>
+  <img width="10" />
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo" /></a>
 
   <h3>Game, Graphics & 3D</h3>
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo" /></a>
@@ -98,6 +102,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="165" alt="stats" /></a>
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="165" alt="top langs" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" height="165" alt="stats" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
 </div>
