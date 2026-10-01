@@ -102,6 +102,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&cache_seconds=1800" height="165" alt="stats" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=issues&theme=tokyonight&v=3" height="165" alt="stats" /></a>
   <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
 </div>
