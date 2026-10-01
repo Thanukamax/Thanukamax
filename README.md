@@ -22,6 +22,10 @@
     <img src="https://img.shields.io/static/v1?message=CrowAI&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="crowai logo" />
   </a>
 
+  <a href="https://bbyb.dev">
+    <img src="https://img.shields.io/static/v1?message=BitByBit&logo=rocket&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="bitbybit logo" />
+  </a>
+
   <a href="https://Thanukamax.github.io">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=astro&label=&color=BC52EE&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
