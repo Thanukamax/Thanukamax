@@ -7,7 +7,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Thanuka Sehasna Perera</h1>
-<h3 align="center">CS undergrad @ <a href="https://www.westminster.ac.uk/">University of Westminster</a> &amp; Intern SDR @ <a href="https://wso2.com/">WSO2</a><br />Building at the intersection of engineering and art — game engines, GPU architecture, systems programming and creative tooling.<br />When I'm not writing code, I'm probably tearing apart binaries or designing levels.</h3>
+<h3 align="center">CS undergrad @ <a href="https://www.westminster.ac.uk/">University of Westminster</a> &amp; Intern SDR @ <a href="https://wso2.com/">WSO2</a><br />Building at the intersection of engineering and art — game engines, GPU architecture, systems programming, and Cloudflare edge infrastructure.<br />When I'm not writing code, I'm probably tearing apart binaries or designing levels.</h3>
 <div align="center">
 
   <a href="https://www.linkedin.com/in/thanuka-perera-889240337">
@@ -102,6 +102,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800" height="165" alt="stats" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&cache_seconds=1800" height="165" alt="stats" /></a>
   <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
 </div>
