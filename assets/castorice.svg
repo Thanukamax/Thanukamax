@@ -1,0 +1,12 @@
+<svg width="270" height="30" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 30" fill="none">
+  <defs>
+    <linearGradient id="castorice-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" />
+      <stop offset="50%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="21" fill="url(#castorice-gradient)" font-family="sans-serif, system-ui, -apple-system" font-size="18" font-weight="bold" text-anchor="middle">
+    I REALLY like Castorice
+  </text>
+</svg>

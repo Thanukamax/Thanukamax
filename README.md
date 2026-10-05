@@ -11,18 +11,7 @@
 <h3 align="center">CS undergrad @ <a href="https://www.westminster.ac.uk/">University of Westminster</a> &amp; Intern SDR @ <a href="https://wso2.com/">WSO2</a><br />Coding to Release stress, building random things, hope u like what you see .<br />I do Game Optimisation, Web builds, Reverse Engineering, Terminal GUI and loads of other stuff.</h3>
 
 <div align="center">
-  <svg width="270" height="30" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="castorice-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#A855F7" />
-        <stop offset="50%" stop-color="#EC4899" />
-        <stop offset="100%" stop-color="#FFFFFF" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="20" fill="url(#castorice-gradient)" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
-      I REALLY like Castorice
-    </text>
-  </svg>
+  <img src="assets/castorice.svg" alt="I REALLY like Castorice" height="30" />
 </div>
 
 <div align="center">
@@ -119,6 +108,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues&theme=tokyonight&v=3" height="165" alt="stats" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://streak-stats.demolab.com/?user=Thanukamax&theme=tokyonight&hide_border=true" height="165" alt="streak stats" /></a>
   <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
 </div>
