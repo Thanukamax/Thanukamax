@@ -6,8 +6,25 @@
     <img src="assets/banner.gif" width="100%" alt="Banner" />
   </a>
 </div>
+
 <h1 align="center">Hi 👋, I'm Thanuka Sehasna Perera</h1>
-<h3 align="center">CS undergrad @ <a href="https://www.westminster.ac.uk/">University of Westminster</a> &amp; Intern SDR @ <a href="https://wso2.com/">WSO2</a><br />Building at the intersection of engineering and art — game engines, GPU architecture, systems programming, and Cloudflare edge infrastructure.<br />When I'm not writing code, I'm probably tearing apart binaries or designing levels.</h3>
+<h3 align="center">CS undergrad @ <a href="https://www.westminster.ac.uk/">University of Westminster</a> &amp; Intern SDR @ <a href="https://wso2.com/">WSO2</a><br />Coding to Release stress, building random things, hope u like what you see .<br />I do Game Optimisation, Web builds, Reverse Engineering, Terminal GUI and loads of other stuff.</h3>
+
+<div align="center">
+  <svg width="270" height="30" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="castorice-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#A855F7" />
+        <stop offset="50%" stop-color="#EC4899" />
+        <stop offset="100%" stop-color="#FFFFFF" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="20" fill="url(#castorice-gradient)" font-family="sans-serif" font-size="18" font-weight="bold" text-anchor="middle">
+      I REALLY like Castorice
+    </text>
+  </svg>
+</div>
+
 <div align="center">
 
   <a href="https://www.linkedin.com/in/thanuka-perera-889240337">
@@ -102,6 +119,6 @@
 
 <div align="center">
   <br />
-  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=issues&theme=tokyonight&v=3" height="165" alt="stats" /></a>
+  <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api?username=Thanukamax&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=issues&theme=tokyonight&v=3" height="165" alt="stats" /></a>
   <a href="https://github.com/Thanukamax"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thanukamax&layout=compact&hide_border=true&langs_count=8&hide=html,css&theme=tokyonight&cache_seconds=1800" height="165" alt="top langs" /></a>
 </div>
