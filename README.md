@@ -68,7 +68,7 @@
   <h3>Game, Graphics & 3D</h3>
   <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="35" alt="unity logo" /></a>
   <img width="10" />
-  <a href="https://www.unrealengine.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="35" alt="unreal engine logo" /></a>
+  <a href="https://www.unrealengine.com/"><img src="https://skillicons.dev/icons?i=unreal" height="35" alt="unreal engine logo" /></a>
   <img width="10" />
   <a href="https://www.vulkan.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" height="35" alt="vulkan logo" /></a>
   <img width="10" />
@@ -85,6 +85,8 @@
   <img width="10" />
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo" /></a>
   <img width="10" />
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" height="35" alt="fastapi logo" /></a>
+  <img width="10" />
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo" /></a>
   <img width="10" />
   <a href="https://bun.sh/"><img src="https://skillicons.dev/icons?i=bun" height="35" alt="bun logo" /></a>
@@ -100,7 +102,11 @@
   <img width="10" />
   <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo" /></a>
   <img width="10" />
+  <a href="https://cmake.org/"><img src="https://skillicons.dev/icons?i=cmake" height="35" alt="cmake logo" /></a>
+  <img width="10" />
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo" /></a>
+  <img width="10" />
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" height="35" alt="github actions logo" /></a>
   <img width="10" />
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo" /></a>
 
