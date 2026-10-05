@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 30" width="320" height="30" fill="none">
+  <defs>
+    <linearGradient id="gfx-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9333EA" />
+      <stop offset="35%" stop-color="#C084FC" />
+      <stop offset="70%" stop-color="#F43F5E" />
+      <stop offset="90%" stop-color="#FB7185" />
+      <stop offset="100%" stop-color="#FFFFFF" />
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+  <style>
+    .header-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 20px;
+      letter-spacing: 0.5px;
+    }
+  </style>
+  <text x="50%" y="22" text-anchor="middle" fill="url(#gfx-grad)" filter="url(#shadow)" class="header-text">Game, Graphics &amp; 3D</text>
+</svg>
